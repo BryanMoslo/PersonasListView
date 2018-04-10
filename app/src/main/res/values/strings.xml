@@ -3,4 +3,7 @@
     <string name="DNI">Cedula</string>
     <string name="first_name">Nombre</string>
     <string name="last_name">Apellido</string>
+    <string name="register_title">REGISTRAR</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Borrar</string>
 </resources>
