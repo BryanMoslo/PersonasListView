@@ -4,4 +4,17 @@
     <string name="DNI">DNI</string>
     <string name="first_name">First Name</string>
     <string name="last_name">Last Name</string>
+    <string name="register_title">NEW PERSON</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="users_counter">No.</string>
+    <string name="person_saved">Person saved successfully!</string>
+
+    <string name="register">Registrar</string>
+    <string name="listing">Listar</string>
+
+    <string-array name="options">
+        <item>@string/register</item>
+        <item>@string/listing</item>
+    </string-array>
 </resources>

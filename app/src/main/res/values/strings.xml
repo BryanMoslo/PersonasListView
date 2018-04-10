@@ -3,8 +3,17 @@
     <string name="DNI">Cedula</string>
     <string name="first_name">Nombre</string>
     <string name="last_name">Apellido</string>
-    <string name="register_title">REGISTRAR</string>
+    <string name="register_title">Nueva Persona</string>
     <string name="save">Guardar</string>
     <string name="delete">Borrar</string>
     <string name="users_counter">No.</string>
+    <string name="person_saved">Persona guardada exitosamente!</string>
+
+    <string name="register">Registrar</string>
+    <string name="listing">Listar</string>
+
+    <string-array name="options">
+        <item>@string/register</item>
+        <item>@string/listing</item>
+    </string-array>
 </resources>

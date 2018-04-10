@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/DNI"
-        android:inputType="textPersonName"
+        android:inputType="number"
         android:paddingBottom="20dp" />
 
     <EditText
@@ -55,6 +55,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="savePerson"
             android:text="@string/save" />
 
         <Button
@@ -62,6 +63,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="clear"
             android:text="@string/delete" />
     </LinearLayout>
 </LinearLayout>

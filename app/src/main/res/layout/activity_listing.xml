@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/table"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:stretchColumns="*"
+    android:padding="15dp"
     tools:context="com.tallerzapatoszxy.trabajandolistview.Listing"
     tools:layout_editor_absoluteY="8dp">
 
